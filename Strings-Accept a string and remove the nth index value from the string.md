@@ -25,5 +25,10 @@ b = int(input())
 ```
 
 ## Output
+<img width="524" height="144" alt="image" src="https://github.com/user-attachments/assets/95753711-dde4-4c6d-b500-2a5f9381e8b6" />
+
 
 ## Result
+The Python program that accepts a string and removes the character at a specified index is executed successfully.
+
+
